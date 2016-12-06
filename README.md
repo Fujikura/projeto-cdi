@@ -1,1 +1,1 @@
-# Projeto básico utilizando CDI para injeção de dependências
+# Projeto Java SE utilizando CDI para injeção de dependências
